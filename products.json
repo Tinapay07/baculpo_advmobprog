@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects.",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 5,
+      "tags": ["beauty", "mascara"],
+      "brand": "Essence",
+      "sku": "BEA-ESS-MAS-001",
+      "weight": 2,
+      "dimensions": { "width": 23.17, "height": 14.43, "depth": 28.01 },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low stock",
+      "reviews": [],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 48,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035109868",
+        "qrCode": ""
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks.",
+      "category": "beauty",
+      "price": 19.99,
+      "discountPercentage": 5.5,
+      "rating": 3.28,
+      "stock": 44,
+      "tags": ["beauty", "eyeshadow"],
+      "brand": "Glamour Beauty",
+      "sku": "BEA-GLA-EYE-002",
+      "weight": 3,
+      "dimensions": { "width": 12.0, "height": 1.5, "depth": 8.0 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 10,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9174035109869",
+        "qrCode": ""
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "A compact powder canister for convenient storage and application of loose or pressed powder.",
+      "category": "beauty",
+      "price": 14.99,
+      "discountPercentage": 18.14,
+      "rating": 3.82,
+      "stock": 59,
+      "tags": ["beauty", "powder"],
+      "brand": "Velvet Touch",
+      "sku": "BEA-VEL-POW-003",
+      "weight": 5,
+      "dimensions": { "width": 10.7, "height": 9.5, "depth": 10.0 },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In stock",
+      "reviews": [],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9184035109870",
+        "qrCode": ""
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+    }
+  ],
+  "total": 3,
+  "skip": 0,
+  "limit": 3
+}
