@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330191556059",
+    "project_id": "baculpo-advmobprog",
+    "storage_bucket": "baculpo-advmobprog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330191556059:android:cbbf4199ca78dd5e4a6bfe",
+        "android_client_info": {
+          "package_name": "com.example.baculpo_advmobprog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl3xH6cwQADl4RTiA96NQaueFfCR7tf54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
